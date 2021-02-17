@@ -30,3 +30,11 @@
 .card-content {
     background-color: rgb(139, 136, 136);
 }
+
+#projectCard {
+    background-color: white;
+}
+
+#Projects {
+    background-color:lightgray;
+}
